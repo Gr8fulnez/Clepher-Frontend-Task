@@ -30,8 +30,7 @@ const App: React.FC = () => {
   const itemsPerPage: number = 10;
 
   //In case the API request exit per day request use API_KEY1
-  // eslint-disable-next-line @typescript-eslint/no-unused-vars
-  const API_KEY = 'RIBXT3XYLI69PC0Q';
+  // const API_KEY = 'RIBXT3XYLI69PC0Q';
   const API_KEY1 = 'demo';
 
   useEffect(() => {
